@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Luis Claudio / Portfolio and online CV"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Luis Claudio"
+description              : &description "Hey there"
 url                      : https://luisclaudio26.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "luisclaudio26/luisclaudio26.github.io"
@@ -78,12 +78,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Luis Claudio"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "I'm interested in computer graphics and image processing (EDIT)"
+  location         : "Porto Alegre, Brazil"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    :
   email            :
   uri              :
   bitbucket        :
@@ -92,19 +92,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "luisclaudio26"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            :
   pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  soundcloud       : "luisclaudio26"
+  stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "@luisassakhra"
   vine             :
   weibo            :
   xing             :
