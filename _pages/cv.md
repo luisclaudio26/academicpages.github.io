@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,13 +11,14 @@ redirect_from:
 
 Education
 ======
-* Bachelor degree in Computer Science, UFRN, 2017
-  * Thesis: A Study on Local Feature Descriptors for Point Clouds
-  * Advisor: prof. Bruno Motta
-* Master degree in Computer Science, UFRGS, on going
-  * Advisors: prof. Eduardo Gastal, prof. Manuel de Oliveira
 * Summer course on 2D Computer Graphics, IMPA, 2016
-  * Professor: prof. Diego Nehab
+  * Course taught by [prof. Diego Nehab](http://w3.impa.br/~diego/index.html)
+  
+* Bachelor degree in Computer Science, UFRN, 2017
+  * Thesis: [A Study on Local Feature Descriptors for Point Clouds](http://monografias.ufrn.br/jspui/handle/123456789/5404)
+  * Advisor: [prof. Bruno Motta](http://www.dimap.ufrn.br/~motta/)
+* Master degree in Computer Science, UFRGS, _on going_
+  * Advisors: [prof. Eduardo Gastal](http://inf.ufrgs.br/~eslgastal/), [prof. Manuel de Oliveira](http://www.inf.ufrgs.br/~oliveira/)
 
 Work experience
 ======
