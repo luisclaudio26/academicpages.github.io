@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Hi! I'm Luis"
 excerpt: "About me"
 author_profile: true
 redirect_from:
@@ -12,8 +12,8 @@ I'm currently a MSc. student in computer science at the [Institute of Informatic
 advisal of [prof. Eduardo Gastal](http://inf.ufrgs.br/~eslgastal/) and [prof. Manuel de Oliveira](http://www.inf.ufrgs.br/~oliveira/). I'm currently
 doing research on image processing, but I'm also interested in light transport techniques, appearance modelling, raytracing and real-time rendering.
 
-For more info
+Contact Info
 ------
 I'm looking forward for your contact!
-You can talk to me at _luis claudio gouveia rocha at gmail_, or through [LinkedIn](https://www.linkedin.com/in/luisclaudiogr) or [Twitter](https://twitter.com/luisassakhra).
-Feel free to speak to me in English, Portuguese or French.
+You can talk to me at _luis dot rocha at inf dot ufrgs dot br_, or (preferably) through [Twitter](https://twitter.com/luisassakhra) or
+[LinkedIn](https://www.linkedin.com/in/luisclaudiogr). Feel free to speak to me in Portuguese, English or French!
