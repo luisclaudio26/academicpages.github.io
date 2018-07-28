@@ -2,7 +2,7 @@
 title: "Introduction to physically-based rendering"
 collection: talks
 type: "Talk"
-permalink: /talks/talkPBR.md
+permalink: /talks/talkPBR
 venue: "Instituto Metrópole Digital, UFRN"
 date: 2017-09-06
 location: "Natal RN, Brazil"
