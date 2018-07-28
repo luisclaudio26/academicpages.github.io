@@ -13,7 +13,7 @@ Education
 ======
 * Summer course on 2D Computer Graphics, IMPA, 2016
   * Course taught by [prof. Diego Nehab](http://w3.impa.br/~diego/index.html)
-  
+
 * Bachelor degree in Computer Science, UFRN, 2017
   * Thesis: [A Study on Local Feature Descriptors for Point Clouds](http://monografias.ufrn.br/jspui/handle/123456789/5404)
   * Advisor: [prof. Bruno Motta](http://www.dimap.ufrn.br/~motta/)
@@ -50,16 +50,17 @@ I'm able to do.
 * Exposed to
   * Blender 3D, Python
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
+
+[comment]: <> (
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
 Teaching
@@ -70,4 +71,4 @@ Teaching
 
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams )
