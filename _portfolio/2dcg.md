@@ -9,11 +9,13 @@ IMPA, which supports triangles, lines, quadratic and cubic Bézier curves, textu
 mapping, alpha blending and linear/radial gradients. In the end we were able to
 render images with a variety of complex effects.
 
+Code: https://github.com/luisclaudio26/VectorGraphicsRenderer
+
+
 <img src='/images/2dcg_ttf.png'>
+
+Type1 _font example, which uses cubic Bézier curves. ~2s to render._
 
 <img src='/images/2dcg_dancer.png'>
 
-This course was very important to me as this was my very first computer graphics
-class which sparkled my interest in this field.
-
-Source: https://github.com/luisclaudio26/VectorGraphicsRenderer
+Dancer _illustration, which uses alpha blending and a variety of primitives. ~57s to render._
