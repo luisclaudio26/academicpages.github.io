@@ -9,8 +9,7 @@ IMPA, which supports triangles, lines, quadratic and cubic Bézier curves, textu
 mapping, alpha blending and linear/radial gradients. In the end we were able to
 render images with a variety of complex effects.
 
-Code: https://github.com/luisclaudio26/VectorGraphicsRenderer
-
+[Source code](https://github.com/luisclaudio26/VectorGraphicsRenderer)
 
 <img src='/images/2dcg_ttf.png'>
 
