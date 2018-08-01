@@ -3,14 +3,16 @@ title: "A study on local feature descriptors for point clouds"
 excerpt: "Bachelor thesis"
 collection: portfolio
 ---
-
-My bachelor thesis consisted in a study of the _descriptiveness_ of feature descriptors
-for keypoints in point clouds, also proposing some ideas for new descriptors in
-an attempt to get good performance in noisy, cluttered scenarios.
-
-For this project I developed a benchmark platform inspired on the work of [Guo et al](https://link.springer.com/article/10.1007/s11263-015-0824-y) to compare the
-descriptors available on the [Point Cloud Library](http://pointclouds.org/) and
-the new descriptors I created.
+This is my bachelor thesis where I proposed and tested some local feature descriptors
+for point clouds. My main goal was to handcraft features that performed well
+(in terms of _descriptiveness_) on high clutter and noisy scenarios, such as
+pattern recognition on Kinect point clouds. I found out that even the state-of-the-art
+descriptors which have excelent performance on object retrieval tasks performed
+poorly, and the features I proposed could at best perform close to these poor
+results but being faster. As a subproduct of this project, I created a small
+platform based on [Point Cloud Library](http://pointclouds.org/) to benchmark
+the descriptiveness of various feature descriptors on the "classic" datasets, based
+on the work of [Guo et al](https://link.springer.com/article/10.1007/s11263-015-0824-y).
 
 [Source code](https://github.com/luisclaudio26/DescriptorsTestbench2.0)
 
