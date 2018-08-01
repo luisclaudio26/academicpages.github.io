@@ -79,8 +79,8 @@ analytics:
 # Site Author
 author:
   name             : "Luis Claudio"
-  avatar           : "profile.png"
-  bio              : "I'm interested in computer graphics and image processing (EDIT)"
+  avatar           : "perfil1.png"
+  bio              : "MSc. student. Computer graphics, image processing."
   location         : "Porto Alegre, Brazil"
   employer         :
   googlescholar    :
@@ -104,7 +104,7 @@ author:
   stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : "@luisassakhra"
+  twitter          : "luisassakhra"
   vine             :
   weibo            :
   xing             :
