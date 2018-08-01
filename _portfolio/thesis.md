@@ -1,9 +1,10 @@
 ---
 title: "A study on local feature descriptors for point clouds"
-excerpt: "Bachelor thesis"
+excerpt: "Bachelor's thesis"
 collection: portfolio
 ---
-This is my bachelor thesis where I proposed and tested some local feature descriptors
+
+I proposed and tested some local feature descriptors
 for point clouds. My main goal was to handcraft features that performed well
 (in terms of _descriptiveness_) on high clutter and noisy scenarios, such as
 pattern recognition on Kinect point clouds. I found out that even the state-of-the-art
