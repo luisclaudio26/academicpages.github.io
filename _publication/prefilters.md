@@ -1,7 +1,7 @@
 ---	
 title: "Prefilters for Sharp Image Display"	
 collection: publications	
-permalink: /publication/EG2020-psid
+permalink: /publications/EG2020-psid
 excerpt: 'Image filters which account for the human eye blur, leading to sharper images using intuitive parameters.'	
 #date: 2020-10-01	
 venue: 'Computer Graphics Forum, Volume 39 (2020), Number 2, pp. 435-449 (ISSN 1467-8659). Proceedings of Eurographics 2020'
