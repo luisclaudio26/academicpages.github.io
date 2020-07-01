@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a MSc. student in computer science at the [Institute of Informatics](http://www.inf.ufrgs.br/site/) at UFRGS, working under the
-advisal of [prof. Eduardo Gastal](http://inf.ufrgs.br/~eslgastal/) and [prof. Manuel de Oliveira](http://www.inf.ufrgs.br/~oliveira/). I'm currently
-doing research on image processing, but I'm also interested in light transport techniques, appearance modelling, raytracing and real-time rendering.
+I earned my bachelor degree in Computer Science from UFRN and my masters from [Institute of Informatics](http://www.inf.ufrgs.br/site/) at UFRGS, working under the
+advisal of [prof. Eduardo Gastal](http://inf.ufrgs.br/~eslgastal/) and [prof. Manuel de Oliveira](http://www.inf.ufrgs.br/~oliveira/), having worked on image processing.
+My interests include are primarily on computer graphics and light transport simulation, but I'm really interested in anything merging computer science and mathematics/physics.
 
 Contact Info
 ------
 I'm looking forward for your contact!
-You can talk to me at _luis dot rocha at inf dot ufrgs dot br_, or (preferably) through [Twitter](https://twitter.com/luisassakhra) or
+You can talk to me at _luis claudio g rocha at gmail, or (preferably) through [Twitter](https://twitter.com/luisassakhra) or
 [LinkedIn](https://www.linkedin.com/in/luisclaudiogr). Feel free to speak to me in Portuguese, English or French!
