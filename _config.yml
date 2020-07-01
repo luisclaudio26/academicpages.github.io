@@ -80,8 +80,8 @@ analytics:
 author:
   name             : "Luis Claudio"
   avatar           : "perfil1.jpg"
-  bio              : "MSc. student. Computer graphics, image processing."
-  location         : "Porto Alegre, Brazil"
+  bio              : "MSc. in computer science."
+  location         : "Natal, Brazil"
   employer         :
   googlescholar    :
   email            :
@@ -95,9 +95,9 @@ author:
   github           : "luisclaudio26"
   google_plus      :
   keybase          :
-  instagram        :
-  lastfm           :
-  linkedin         :
+  instagram        : "luisclaudiogr"
+  lastfm           : "luisassakhra" 
+  linkedin         : "luisclaudiogr"
   orcid            :
   pinterest        :
   soundcloud       : "luisclaudio26"
