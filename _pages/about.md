@@ -15,5 +15,4 @@ My interests include are primarily on computer graphics and light transport simu
 Contact Info
 ------
 I'm looking forward for your contact!
-You can talk to me at _luis claudio g rocha at gmail, or (preferably) through [Twitter](https://twitter.com/luisassakhra) or
-[LinkedIn](https://www.linkedin.com/in/luisclaudiogr). Feel free to speak to me in Portuguese, English or French!
+You can talk to me at _luis claudio g rocha at gmail_, or any of my social networks listed under my picture. Feel free to speak to me in Portuguese, English or French!
