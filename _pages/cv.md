@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
-* Bachelor degree in Computer Science, UFRN, 2017
+* Bachelor's degree in Computer Science, UFRN, 2017
   * Thesis: [A Study on Local Feature Descriptors for Point Clouds](http://monografias.ufrn.br/jspui/handle/123456789/5404)
   * Advisor: [prof. Bruno Motta](http://www.dimap.ufrn.br/~motta/)
-* Master degree in Computer Science, UFRGS, 2020
+* Master's degree in Computer Science, UFRGS, 2020
   * Thesis: Optimal prefilters for display enhancement (soon available) 
   * Advisors: [prof. Eduardo Gastal](http://inf.ufrgs.br/~eslgastal/), [prof. Manuel de Oliveira](http://www.inf.ufrgs.br/~oliveira/)
   
@@ -23,9 +23,9 @@ Education
 
 Work experience
 ======
-* July 2019 to April 2020: R&D Engineer
+* June 2019 to April 2020: R&D Engineer
   * Silvaco Inc. at Porto Alegre, Brazil
-  * Duties included: maintain and develop a solution for intracell placement of transistors
+  * Duties included: maintain and develop algorithms for [Cello](https://www.silvaco.com/products/nangate/cello/index.html), a software for cell library creation
 
 * August 2017: Student Volunteer in SIGGRAPH 2017
   * SIGGRAPH 2017 at Los Angeles, USA
@@ -46,7 +46,7 @@ I'm able to do.
   * C++, C
 * Working knowledge of
   * Julia, Matlab, GLSL, Java
-  * CUDA, OpenG, GLM, Eigen, PointCloudLibrary
+  * CUDA, OpenGL, GLM, Eigen, PointCloudLibrary
   * Linear algebra, analytic geometry
   * OOP design
 * Comfortable with
