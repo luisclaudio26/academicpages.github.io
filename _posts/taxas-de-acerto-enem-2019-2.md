@@ -1,3 +1,18 @@
+---
+title: 'Taxas de acerto do ENEM 2019 [CH e LC]'
+date: 2021-03-11
+permalink: /posts/2021/03/enem2019-parte2/
+tags:
+  - ENEM
+---
+
+Dando continuidade à [postagem anterior](https://luisclaudio26.github.io/posts/2021/03/enem2019-parte1/), onde apresentei as taxas de acerto para as provas de Ciência da Natureza e Matemática, hoje concluo com as taxas para as provas de Ciências Humanas e Linguagens e Códigos.
+
+Se você quiser dar uma olhada no código que eu usei para gerar as tabelas, ele está [aqui](https://github.com/luisclaudio26/analise_enem_2019/blob/master/DificuldadeV2.py). Ainda está bem cru e tem muita informação _hardcoded_, mas eu priorizei obter os resultados rapidamente e não um código com boa engenharia.
+
+Espero que gostem!
+
+
 Linguagens e Códigos
 -------
 
