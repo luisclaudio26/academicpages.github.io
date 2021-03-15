@@ -1,6 +1,6 @@
 ---
 title: 'Taxas de acerto do ENEM 2019 [CH e LC]'
-date: 2021-03-11
+date: 2021-03-15
 permalink: /posts/2021/03/enem2019-parte2/
 tags:
   - ENEM
